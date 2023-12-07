@@ -1,1 +1,2 @@
-
+## Naive Bayes classification on NBA players data
+you work for a firm that provides insights for management and coaches in the National Basketball Association (NBA), a professional basketball league in North America. The league is interested in retaining players who can last in the high-pressure environment of professional basketball and help the team be successful over time. You will now use those insights to build a model that predicts whether a player will have an NBA career lasting five years or more.
