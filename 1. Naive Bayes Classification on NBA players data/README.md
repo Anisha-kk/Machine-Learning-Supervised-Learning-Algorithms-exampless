@@ -15,6 +15,7 @@ The following attributes about player performance could help predict their NBA c
 ### 2. From Naive Bayes Classification
 ![image](https://github.com/Anisha-kk/Machine-Learning---Supervised-Learning/assets/152973245/07638f1f-dae9-4591-9e82-
 565d2b56d18d)
+
 The model created provides some value in predicting an NBA player's chances of playing for five years or more. Notably, the model performed better at predicting true positives than it did at predicting true negatives. In other words, it more accurately identified those players who will likely play for more than five years than it did those who likely will not.
 ## Conclusion
 Naive Bayes model is good for classification. It can also accomodate new information easily. But a lot of preprocessing steps need to be done (feature extraction, scaling etc).
