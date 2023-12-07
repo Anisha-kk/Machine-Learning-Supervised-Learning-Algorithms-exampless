@@ -13,8 +13,7 @@ The data for this activity consists of performance statistics from each player's
 ### 1. Form Feature Engineering code
 The following attributes about player performance could help predict their NBA career duration and should be included in a presentation to stakeholders: field goals, three-point field goals, free throws, rebounds, assists, steals, blocks, turnovers, total points, and efficiency as points per minute.
 ### 2. From Naive Bayes Classification
-![image](https://github.com/Anisha-kk/Machine-Learning---Supervised-Learning/assets/152973245/07638f1f-dae9-4591-9e82-
-565d2b56d18d)
+![image](https://github.com/Anisha-kk/Machine-Learning---Supervised-Learning/assets/152973245/d1a6895c-ebd8-4fda-ab75-0e261ab96dfd)
 
 The model created provides some value in predicting an NBA player's chances of playing for five years or more. Notably, the model performed better at predicting true positives than it did at predicting true negatives. In other words, it more accurately identified those players who will likely play for more than five years than it did those who likely will not.
 ## Conclusion
