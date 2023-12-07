@@ -8,6 +8,7 @@ This activity uses a dataset called Invistico_Airline.csv. The dataset contains:
 The dataset can be found on Kaggle.
 ## Modeling and Evaluation
 ![image](https://github.com/Anisha-kk/Machine-Learning---Supervised-Learning/assets/152973245/bb96c968-135e-4580-a603-744cc3108dc3)
+
 Decision trees accurately predicted satisfaction over 94 percent of the time. The confusion matrix is useful as it shows a similar number of true positives and true negatives.
 ## Conclusion
 The success of the model suggests that the airline should invest more effort into model building and model understanding since this model semed to be very good at predicting customer satisfaction.
